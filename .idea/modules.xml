@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Bintong.iml" filepath="$PROJECT_DIR$/Bintong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidapp/androidapp.iml" filepath="$PROJECT_DIR$/androidapp/androidapp.iml" />
     </modules>
   </component>
 </project>
